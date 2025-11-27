@@ -1,4 +1,4 @@
-# Provide-Insights-to-the-Marketing-Team-Food-Beverage-Industry(CodeBasics Resume Challenge)
+# Provide Insights to the Marketing Team-Food Beverage Industry(CodeBasics Resume Challenge)
 
 📌 Problem Statement
 
