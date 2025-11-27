@@ -1,4 +1,4 @@
-# Provide-Insights-to-the-Marketing-Team-Food-Beverage-Industry
+# Provide-Insights-to-the-Marketing-Team-Food-Beverage-Industry(CodeBasics Resume Challenge)
 
 This project focuses on analyzing consumer survey data for CodeX, a German energy drink company that recently launched its product in 10 cities across India. The goal was to convert survey responses from over 10,000 consumers into actionable insights for marketing, product development, and brand strategy.
 
