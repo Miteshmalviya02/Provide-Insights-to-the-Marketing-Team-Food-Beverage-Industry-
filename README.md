@@ -8,16 +8,16 @@ CodeX aims to increase brand awareness, market share, and product adoption in In
 
 🔑 Key Insights
 
-Demographics: 60% of consumers are male – the largest target segment
-Age Group: Young adults (19–30) show the highest consumption (50%+ of users)
-Marketing Channels: Online ads are the most effective channel to reach youth
-Preferences: Caffeine and vitamins are the top preferred ingredients
-Packaging: Consumers prefer compact and portable cans
-Competition: Cola-Coka is the current market leader, followed by Bepsi
-Brand Loyalty: Brand reputation is the primary reason customers choose competitors
-Purchase Behavior: Supermarkets are the most preferred purchase location
-Consumption Situations: Sports/exercise and studying late are common scenarios
-Pricing: Ideal price range is ₹50–₹99, preferred by 43% of customers
+Demographics: 60% of consumers are male – the largest target segment.
+Age Group: Young adults (19–30) show the highest consumption (50%+ of users).
+Marketing Channels: Online ads are the most effective channel to reach youth.
+Preferences: Caffeine and vitamins are the top preferred ingredients.
+Packaging: Consumers prefer compact and portable cans.
+Competition: Cola-Coka is the current market leader, followed by Bepsi.
+Brand Loyalty: Brand reputation is the primary reason customers choose competitors.
+Purchase Behavior: Supermarkets are the most preferred purchase location.
+Consumption Situations: Sports/exercise and studying late are common scenarios.
+Pricing: Ideal price range is ₹50–₹99, preferred by 43% of customers.
 
 📊 What I Built
 Using Power BI, I created an interactive dashboard covering:
